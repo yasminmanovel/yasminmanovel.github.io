@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    background: url(bg.jpg) no-repeat; 
+    background: url(bg.JPG) no-repeat; 
     background-size: cover;
 
 }
@@ -16,7 +16,7 @@ body{
     font-family: 'Century Gothic', sans-serif;
 }
 .box-img{
-    border-radius: 10px;
+    border-radius: 0%;
     width: 416px;
     height: 312px;
 }
