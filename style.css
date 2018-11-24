@@ -22,7 +22,7 @@ body{
     background: rgba(0, 0, 0, 0.2);
 }
 .navbar a.active{
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: rgba(0, 0, 0, 0.6);
 }
 .home-box{
     width: 450px;
