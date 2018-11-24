@@ -65,6 +65,12 @@ body{
     letter-spacing: 3px;
     font-weight: 100;
 }
+.home-box h5{
+    font-size: 13px;
+    letter-spacing: 3px;
+    font-weight: 100;
+    text-align: justify;
+}
 .home-box p{
     text-align: justify;
 
