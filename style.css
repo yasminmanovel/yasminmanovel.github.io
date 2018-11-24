@@ -17,8 +17,8 @@ body{
 }
 .box-img{
     border-radius: 50%;
-    width: 416px;
-    height: 312px;
+    width: 10%;
+    height: 10%;
 }
 .box h1{
     font-size: 40px;
