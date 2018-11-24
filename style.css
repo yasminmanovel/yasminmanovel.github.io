@@ -45,6 +45,21 @@ body{
     font-weight: 100;
 
 }
+.home-box h2{
+    letter-spacing: 3.75px;
+    font-weight: 100;
+
+}
+.home-box h3{
+    letter-spacing: 3.5px;
+    font-weight: 100;
+
+}
+.home-box h4{
+    letter-spacing: 3.25px;
+    font-weight: 100;
+
+}
 .home-box h5{
     font-size: 20px;
     letter-spacing: 3px;
