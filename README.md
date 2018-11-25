@@ -1,3 +1,3 @@
 # yasminmanovel.github.io
-### My personal website containing my projects **:)** <br>
+### My personal website/blog/portfolio **:)** <br>
 ## Link: https://yasminmanovel.github.io/
