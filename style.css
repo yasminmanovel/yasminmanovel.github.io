@@ -1,9 +1,8 @@
 body{
     margin: 0;
     padding: 0;
-    background: url(bg.JPG) no-repeat; 
+    background: url(pictures/bg.JPG) no-repeat; 
     background-size: cover;
-
 }
 .navbar{
     background: rgba(0, 0, 0, 0.4);
@@ -33,46 +32,45 @@ body{
     margin-top: 5%;
     color: white;
     font-family: 'Century Gothic', sans-serif;
+    font-weight: 100;
+}
+.text-box{
+    width: 400px;
+    text-align: left;
+    margin: 100px;
+    margin-top: 1%;
+    margin-bottom: 2%;
+    font-weight: 100;
 }
 .home-box-img{
     /* border-radius: 0%; */
     width: 416px;
     height: 312px;
 }
-.home-box h1{
+h1{
     font-size: 40px;
-    letter-spacing: 4px;
     font-weight: 100;
-
 }
-.home-box h2{
-    letter-spacing: 3.75px;
+h2{
     font-weight: 100;
-
 }
-.home-box h3{
-    letter-spacing: 3.5px;
+h3{
     font-weight: 100;
-
 }
-.home-box h4{
-    letter-spacing: 3.25px;
+h4{
     font-weight: 100;
-
 }
-.home-box h5{
+h5{
     font-size: 20px;
-    letter-spacing: 3px;
     font-weight: 100;
 }
-.home-box h6{
+h6{
     font-size: 15px;
-    letter-spacing: 3px;
     font-weight: 100;
-    /* text-align: justify; */
-}
-.home-box p{
     text-align: justify;
+}
+p{
+    text-align: left;
 
 }
 ul{
@@ -84,7 +82,7 @@ ul{
     padding-left: 10px;
   }
 .dash li:before {
-    content: "–   ";
+    content: "–";
     position: absolute;
     margin-left: -10px;
   }
