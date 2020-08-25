@@ -1,3 +1,3 @@
-# yasminmanovel.github.io
+# yasumih.github.io
 ### My personal website/blog/portfolio **:)** <br>
-## Link: https://yasminmanovel.github.io/
+## Link: https://yasumih.github.io/
